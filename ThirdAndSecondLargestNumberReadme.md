@@ -1,6 +1,6 @@
 Algorithm:
 
-# 1.Initialize three variables: first, second, and third to INT_MIN.
+1.Initialize three variables: first, second, and third to INT_MIN.
 
    Traverse the array and compare each element:
 
